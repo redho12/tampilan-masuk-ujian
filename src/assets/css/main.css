@@ -1,0 +1,6 @@
+#app {
+    font-family: 'Comic Neue', cursive;
+}
+.router-link-exact-active {
+    font-weight: bold;
+}
